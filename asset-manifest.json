@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/userdata-form-react-app%20/static/css/main.e79ad4ae.css",
+    "main.js": "/userdata-form-react-app%20/static/js/main.173fc1af.js",
+    "index.html": "/userdata-form-react-app%20/index.html",
+    "main.e79ad4ae.css.map": "/userdata-form-react-app%20/static/css/main.e79ad4ae.css.map",
+    "main.173fc1af.js.map": "/userdata-form-react-app%20/static/js/main.173fc1af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79ad4ae.css",
+    "static/js/main.173fc1af.js"
+  ]
+}
